@@ -2,6 +2,9 @@
 
 #The question
 
+# IPython
+profile_default/
+ipython_config.py
 
 The Fibonacci sequence is one of the most famous formulas in mathematics.
 Each number in the sequence is the sum of the two numbers that precede it.
